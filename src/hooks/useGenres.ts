@@ -1,4 +1,4 @@
-import useData from "./useDate";
+import useData from "./useData";
 
 
 export interface Genre{

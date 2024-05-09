@@ -1,5 +1,5 @@
 import { Button, HStack, Image, List, ListItem, Spinner, Text } from '@chakra-ui/react'
-import useData from '../hooks/useDate'
+import useData from '../hooks/useData'
 import useGenres, { Genre } from '../hooks/useGenres'
 
 
